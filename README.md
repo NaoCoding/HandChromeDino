@@ -8,6 +8,7 @@
 * Control Dino Game With Your Hand!
 * An example of controling your pc with Mediapipe hand estimation
 * Feel free to rebuild the application
+* High School Project at the End of the Semester 
 
 ## Require Python Packages
 * PyAutoGUI
